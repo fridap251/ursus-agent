@@ -13,7 +13,7 @@ Secure authentication and authorization
 
 3. Amazon Bedrock Integration:
 
-Uses Claude 3 Sonnet for sophisticated customer service recommendations
+Uses Claude 3 Haiku for sophisticated customer service recommendations
 Processes conversation history and customer profiles
 Generates contextual, actionable advice for agents
 
